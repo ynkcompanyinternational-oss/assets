@@ -1,0 +1,9 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "website": "",
+  "description": "Token criado no Ethereum Mainnet.",
+  "explorer": "https://etherscan.io/token/0x8f2c56Cf856906E1a5eC78487EE74d48335aca77",
+  "type": "ERC20"
+}
